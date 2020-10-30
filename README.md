@@ -1,16 +1,19 @@
+# A to Z Resources for Students 
 
-# A to Z Resources for Students :boy: ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+
+<a href="https://bit.ly/375xQOt"  target="_blank" > 
+	<img src="https://dev-to-uploads.s3.amazonaws.com/i/b8z327s44r4udm4cfdp5.png" alt="Whatsapp"/>  Join Whatsapp Community </a>
+
+## **Version 2 of A to Z Resource Coming Soon, Click this link and get notified when it available**  - [NOTIFY ME FOR EARLY ACCESS](https://dipakkr.substack.com/)
+
+This repository is created and curated by Deepak Kumar ( [Twitter](https://twitter.com/HQdeepak) ). There are more than 500+ individual contributors have  helped creating this repository. We can see the list of contributors at [Contributors](CONTRIBUTORS.md) page.
+
+If you think this repository helped you in any in finding new opportunities, tag me on Twitter( @HQdeepak ) and help it reach more people in the community. 
+
+
+[Buy Me a Coffee](https://www.buymeacoffee.com/dipakkr)
+
 ---
-### Show some :heart: and :star: the repo to support the project
-
-[![GitHub stars](https://img.shields.io/github/stars/dipakkr/A-to-Z-Resources-for-Students.svg?style=social&label=Star)](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/HQdeepak.svg?style=social)](https://twitter.com/HQdeepak)
-
-![GitHub followers](https://img.shields.io/github/followers/dipakkr.svg?style=social&label=Follow)
-
-
-----
 
 ### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
@@ -81,8 +84,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 14. [Miscellaneous Resources](#14-miscellaneous-resources)
      - [Design Resources](#141-design-resources)
      - [Podcasts](#142-podcasts)
-15. [Contributors](CONTRIBUTORS.md)
-
+15. [Top sites for APTITUTE PREPARATION FOR PLACEMENTS]
+16. [Contributors](CONTRIBUTORS.md)
 ---
 
 # FYI
@@ -199,7 +202,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  [Google Android Codelabs](https://codelabs.developers.google.com/)
 -  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
 -  [Android examples ](https://github.com/nisrulz/android-examples)
--  [Flutter Examples ](https://github.com/nisrulz/flutter-examples)
+-  [Flutter Examples ](https://github.com/nisrulz/flutter-examples
+-  [Pathway to Follow ](https://roadmap.sh/android)
+
+
 
 ## 1.5 Backend Development
 
@@ -304,6 +310,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Learn to Code HTML & CSS: Shay Howe ](https://learn.shayhowe.com/html-css/)
     - [BitDegree-Learn HTML](https://bitdegree.org/learn/html-basics)
     - [BitDegree-Learn CSS](https://bitdegree.org/learn/css-basics)
+    - [CSS Grid Garden Game](https://cssgridgarden.com/)
 
 - **Bootstrap4**
 
@@ -339,6 +346,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
     - [ES6 Cheatsheet](https://es6cheatsheet.com/)
     - [RegexOne | Regular Expression course](https://regexone.com/)
+    - [Dmitry Soshnikov's blog | A blog about JavaScript](http://dmitrysoshnikov.com/)
 
 
 - **JavaScript Frameworks**
@@ -518,7 +526,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [MongoDB University](https://university.mongodb.com/)
 
 ## 1.15 Prolog
-- [Michael Spivey - An introduction to logic programming through Prolog](http://spivey.oriel.ox.ac.uk/wiki2/files/logprog/logic.pdf)
+- [Michael Spivey - An introduction to logic programming through Prolog](https://spivey.oriel.ox.ac.uk/wiki/files/logprog/logic.pdf)
 
 ## 1.16 C# Language
 - [LearnCS](https://www.learncs.org)
@@ -569,6 +577,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.22 Full-Stack Web Development
 - [App Academy **FREE** Online Curriculum](https://open.appacademy.io/)
+-[The Odin Project - Ruby & JS tracks](https://www.theodinproject.com/)
 
 ## 1.23 Go Language
 - [Go,Progate](https://progate.com/languages/go)
@@ -765,6 +774,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 12. [GHC India Student Scholarships](https://ghcindia.anitab.org/ghci-19-student-scholarships-2/) Applications are opened in the months of May - June every year.
 13. [Adobe India Women-in-Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/) Application are opened in September - October every year. 
 14. [Microsoft Scholarship Program](https://careers.microsoft.com/students/us/en/usscholarshipprogram) **Applications open in October 2019!**
+15. [Udacity - Bertelsmann Technology Scholarships Program](https://www.udacity.com/bertelsmann-tech-scholarships) **Application deadline - November 16th, 2020**
 
 
 ---
@@ -1091,7 +1101,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |2 | [SpringBoard](https://www.springboard.com/) | DataScience | 2 Year experience as Software Dev, Only Pay if you get a Job | USA, India | 
 | 3| [Pesto Tech](https://pesto.tech)|  FullStack JavaScript | 2 Year experience as Software Dev, Only pay 17.5 % of salary when you get more than 15LPA | India
 | 4| [InterviewBit Academy](https://www.interviewbit.com/academy/)|  Software Developer | No Experience Required, 6 month online trainging, Only Pay when you get a Job | India
-
+| 5| [General Assembly](https://generalassemb.ly)|  Software Developer, Data Science, Android, iOS, Design | On Campus and fully remote options, both part-time and full-time | US and International
+| 6| [Coding Dojo](https://www.codingdojo.com)|  Software Developer, Data Science | Remote and On Campus options, Software dev teaches 3 full stacks | US and International
 
 # 14. Miscellaneous Resources
 
@@ -1126,14 +1137,43 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - **Other**
     - Tracks to Relax
     - Unladylike
+    
+## 15. Top sites for APTITUTE PREPARATION FOR PLACEMENTS
 
-## 15. Created and Maintained By
+  -**[IndiaBix.com](https://indiabix.com)**
+
+	This is a website that offers a variety of learning opportunities. 
+	Its verbal and reasoning section has problem sums on Verbal Ability, Logical Reasoning, Verbal Reasoning, and Non Verbal Reasoning. 
+	The website also has section for  quizzes, logical puzzles, and discussion forums. The website also attempts to prepare students 
+	for the interview and group discussion.
+
+   -**[Testpot.com](https://testpot.com)**	
+
+	Testpot.com is the place where you can spend hours practicing hundreds of mock tests on 
+	the section of reasoning aptitude and making yourself an erudite. And the best part is that it is free of cost. 
+	As per the website, they have more than 150 mock tests.
+ 
+   -**[Freedu.in](https://freedu.in)**
+
+	Freedu.in is especially curated to help the students crack their competing exams. 
+	It offers more than thousands of the questions in the section of Logical Reasoning and aptitude. 
+	This website is totally free of cost
+
+   -**[Sawaal.com](https://sawaal.com)**
+
+	One of the best sites for students and job seekers, sawaal.com 
+	includes a lot of questions that tests both the mathematical and logical abilities of the students. 
+	These questions are carefully drafted and are in line with the most common questions that are usually asked in the examinations.
+
+## 16. Created and Maintained By
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ----
 
 Hey, I am excited to see you here. I hope you find the project useful. Follow me and Share the A2Z-Resources in your network. 
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/HQdeepak.svg?style=social)](https://twitter.com/HQdeepak)
 
-###  **Deepak Kumar** -  [Twitter](https://twitter.com/diipakkr)     -  [Instagram](http://instagram.com/diipakkr)  -   [LinkedIn](https://www.linkedin.com/in/dipakkr/)  
+Support my work 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/diipakkr.svg?style=social)](https://twitter.com/diipakkr)
+<a href="https://www.buymeacoffee.com/dipakkr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 117px !important;" ></a>
+
